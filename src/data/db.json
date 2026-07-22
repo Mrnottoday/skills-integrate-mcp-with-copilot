@@ -1,0 +1,315 @@
+{
+  "users": [
+    {
+      "id": "usr_michael-mergington-edu",
+      "email": "michael@mergington.edu",
+      "name": null,
+      "grade_level": null
+    },
+    {
+      "id": "usr_daniel-mergington-edu",
+      "email": "daniel@mergington.edu",
+      "name": null,
+      "grade_level": null
+    },
+    {
+      "id": "usr_emma-mergington-edu",
+      "email": "emma@mergington.edu",
+      "name": null,
+      "grade_level": null
+    },
+    {
+      "id": "usr_sophia-mergington-edu",
+      "email": "sophia@mergington.edu",
+      "name": null,
+      "grade_level": null
+    },
+    {
+      "id": "usr_john-mergington-edu",
+      "email": "john@mergington.edu",
+      "name": null,
+      "grade_level": null
+    },
+    {
+      "id": "usr_olivia-mergington-edu",
+      "email": "olivia@mergington.edu",
+      "name": null,
+      "grade_level": null
+    },
+    {
+      "id": "usr_liam-mergington-edu",
+      "email": "liam@mergington.edu",
+      "name": null,
+      "grade_level": null
+    },
+    {
+      "id": "usr_noah-mergington-edu",
+      "email": "noah@mergington.edu",
+      "name": null,
+      "grade_level": null
+    },
+    {
+      "id": "usr_ava-mergington-edu",
+      "email": "ava@mergington.edu",
+      "name": null,
+      "grade_level": null
+    },
+    {
+      "id": "usr_mia-mergington-edu",
+      "email": "mia@mergington.edu",
+      "name": null,
+      "grade_level": null
+    },
+    {
+      "id": "usr_amelia-mergington-edu",
+      "email": "amelia@mergington.edu",
+      "name": null,
+      "grade_level": null
+    },
+    {
+      "id": "usr_harper-mergington-edu",
+      "email": "harper@mergington.edu",
+      "name": null,
+      "grade_level": null
+    },
+    {
+      "id": "usr_ella-mergington-edu",
+      "email": "ella@mergington.edu",
+      "name": null,
+      "grade_level": null
+    },
+    {
+      "id": "usr_scarlett-mergington-edu",
+      "email": "scarlett@mergington.edu",
+      "name": null,
+      "grade_level": null
+    },
+    {
+      "id": "usr_james-mergington-edu",
+      "email": "james@mergington.edu",
+      "name": null,
+      "grade_level": null
+    },
+    {
+      "id": "usr_benjamin-mergington-edu",
+      "email": "benjamin@mergington.edu",
+      "name": null,
+      "grade_level": null
+    },
+    {
+      "id": "usr_charlotte-mergington-edu",
+      "email": "charlotte@mergington.edu",
+      "name": null,
+      "grade_level": null
+    },
+    {
+      "id": "usr_henry-mergington-edu",
+      "email": "henry@mergington.edu",
+      "name": null,
+      "grade_level": null
+    }
+  ],
+  "clubs": [
+    {
+      "id": "club_general",
+      "name": "General Activities",
+      "description": "Default club for initial activities"
+    }
+  ],
+  "activities": [
+    {
+      "id": "act_chess-club",
+      "name": "Chess Club",
+      "description": "Learn strategies and compete in chess tournaments",
+      "schedule": "Fridays, 3:30 PM - 5:00 PM",
+      "max_participants": 12,
+      "club_id": "club_general"
+    },
+    {
+      "id": "act_programming-class",
+      "name": "Programming Class",
+      "description": "Learn programming fundamentals and build software projects",
+      "schedule": "Tuesdays and Thursdays, 3:30 PM - 4:30 PM",
+      "max_participants": 20,
+      "club_id": "club_general"
+    },
+    {
+      "id": "act_gym-class",
+      "name": "Gym Class",
+      "description": "Physical education and sports activities",
+      "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
+      "max_participants": 30,
+      "club_id": "club_general"
+    },
+    {
+      "id": "act_soccer-team",
+      "name": "Soccer Team",
+      "description": "Join the school soccer team and compete in matches",
+      "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
+      "max_participants": 22,
+      "club_id": "club_general"
+    },
+    {
+      "id": "act_basketball-team",
+      "name": "Basketball Team",
+      "description": "Practice and play basketball with the school team",
+      "schedule": "Wednesdays and Fridays, 3:30 PM - 5:00 PM",
+      "max_participants": 15,
+      "club_id": "club_general"
+    },
+    {
+      "id": "act_art-club",
+      "name": "Art Club",
+      "description": "Explore your creativity through painting and drawing",
+      "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+      "max_participants": 15,
+      "club_id": "club_general"
+    },
+    {
+      "id": "act_drama-club",
+      "name": "Drama Club",
+      "description": "Act, direct, and produce plays and performances",
+      "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
+      "max_participants": 20,
+      "club_id": "club_general"
+    },
+    {
+      "id": "act_math-club",
+      "name": "Math Club",
+      "description": "Solve challenging problems and participate in math competitions",
+      "schedule": "Tuesdays, 3:30 PM - 4:30 PM",
+      "max_participants": 10,
+      "club_id": "club_general"
+    },
+    {
+      "id": "act_debate-team",
+      "name": "Debate Team",
+      "description": "Develop public speaking and argumentation skills",
+      "schedule": "Fridays, 4:00 PM - 5:30 PM",
+      "max_participants": 12,
+      "club_id": "club_general"
+    }
+  ],
+  "memberships": [],
+  "join_requests": [],
+  "leave_requests": [],
+  "activity_approvals": [],
+  "announcements": [],
+  "finance_entries": [],
+  "signups": [
+    {
+      "id": "signup_act-chess-club-michael-mergington-edu",
+      "activity_id": "act_chess-club",
+      "user_id": "usr_michael-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.066955+00:00"
+    },
+    {
+      "id": "signup_act-chess-club-daniel-mergington-edu",
+      "activity_id": "act_chess-club",
+      "user_id": "usr_daniel-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.066975+00:00"
+    },
+    {
+      "id": "signup_act-programming-class-emma-mergington-edu",
+      "activity_id": "act_programming-class",
+      "user_id": "usr_emma-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.066987+00:00"
+    },
+    {
+      "id": "signup_act-programming-class-sophia-mergington-edu",
+      "activity_id": "act_programming-class",
+      "user_id": "usr_sophia-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.066995+00:00"
+    },
+    {
+      "id": "signup_act-gym-class-john-mergington-edu",
+      "activity_id": "act_gym-class",
+      "user_id": "usr_john-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.067004+00:00"
+    },
+    {
+      "id": "signup_act-gym-class-olivia-mergington-edu",
+      "activity_id": "act_gym-class",
+      "user_id": "usr_olivia-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.067011+00:00"
+    },
+    {
+      "id": "signup_act-soccer-team-liam-mergington-edu",
+      "activity_id": "act_soccer-team",
+      "user_id": "usr_liam-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.067019+00:00"
+    },
+    {
+      "id": "signup_act-soccer-team-noah-mergington-edu",
+      "activity_id": "act_soccer-team",
+      "user_id": "usr_noah-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.067025+00:00"
+    },
+    {
+      "id": "signup_act-basketball-team-ava-mergington-edu",
+      "activity_id": "act_basketball-team",
+      "user_id": "usr_ava-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.067033+00:00"
+    },
+    {
+      "id": "signup_act-basketball-team-mia-mergington-edu",
+      "activity_id": "act_basketball-team",
+      "user_id": "usr_mia-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.067040+00:00"
+    },
+    {
+      "id": "signup_act-art-club-amelia-mergington-edu",
+      "activity_id": "act_art-club",
+      "user_id": "usr_amelia-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.067048+00:00"
+    },
+    {
+      "id": "signup_act-art-club-harper-mergington-edu",
+      "activity_id": "act_art-club",
+      "user_id": "usr_harper-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.067054+00:00"
+    },
+    {
+      "id": "signup_act-drama-club-ella-mergington-edu",
+      "activity_id": "act_drama-club",
+      "user_id": "usr_ella-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.067067+00:00"
+    },
+    {
+      "id": "signup_act-drama-club-scarlett-mergington-edu",
+      "activity_id": "act_drama-club",
+      "user_id": "usr_scarlett-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.067074+00:00"
+    },
+    {
+      "id": "signup_act-math-club-james-mergington-edu",
+      "activity_id": "act_math-club",
+      "user_id": "usr_james-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.067082+00:00"
+    },
+    {
+      "id": "signup_act-math-club-benjamin-mergington-edu",
+      "activity_id": "act_math-club",
+      "user_id": "usr_benjamin-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.067088+00:00"
+    },
+    {
+      "id": "signup_act-debate-team-charlotte-mergington-edu",
+      "activity_id": "act_debate-team",
+      "user_id": "usr_charlotte-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.067097+00:00"
+    },
+    {
+      "id": "signup_act-debate-team-henry-mergington-edu",
+      "activity_id": "act_debate-team",
+      "user_id": "usr_henry-mergington-edu",
+      "created_at": "2026-07-22T02:24:50.067103+00:00"
+    },
+    {
+      "id": "signup_act-gym-class-usr-michael-mergington-edu-2026-07-22t02-44-58-715866-00-00",
+      "activity_id": "act_gym-class",
+      "user_id": "usr_michael-mergington-edu",
+      "created_at": "2026-07-22T02:44:58.715970+00:00"
+    }
+  ]
+}
